@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "user": "Percy Jackson",
+      "userPicture": "https://static.wikia.nocookie.net/acampamentomeiosangue/images/2/29/Percy_Jackson-RR.jpg/revision/latest?cb=20200222212444&path-prefix=pt",
+      "postPicture": "https://static.wikia.nocookie.net/acampamentomeiosangue/images/3/35/Percy_Jackson1.jpg/revision/latest?cb=20200222212605&path-prefix=pt",
+      "location": "Acampamento Meio-Sangue",
+      "description": "Vá em frente com o que seu coração lhe diz, ou você vai perder tudo.",
+      "likes": 2461
+    },
+    {
+      "id": 3,
+      "user": "Aquaman",
+      "userPicture": "http://www.infantv.com.br/infantv/wp-content/uploads/2017/01/aquaman.jpg",
+      "postPicture": "https://www.seekpng.com/png/detail/55-555426_aquaman-clipart-aqua-man-aquaman-clipart.png",
+      "location": "Atlantida",
+      "description": "Chegou a hora de Atlântida se levantar de novo.",
+      "likes": 1703
+    },
+    {
+      "id": 4,
+      "user": "Mulher-Maravilha",
+      "userPicture": "https://www.pikpng.com/pngl/m/494-4945081_wonder-woman-official-comic-png-wonder-woman-comic.png",
+      "postPicture": "https://i.pinimg.com/originals/1a/75/97/1a7597de9cd34a0346fe1e76efaeab9a.jpg",
+      "location": "Washington, D.C",
+      "description": "É o nosso dever sagrado defender o mundo e é isso que eu vou fazer.",
+      "likes": 159
+    },
+    {
+      "id": 5,
+      "user": "Ash Ketchum",
+      "userPicture": "https://img.quizur.com/f/img5e5545da203841.94955565.png?lastEdited=1582646751",
+      "postPicture": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/09/legiao_9Ka2f74SZb3suUQkCgE0HnXy_iWzD8Jd5tjRLvprec.png.jpeg",
+      "location": "Cidade de Pallet",
+      "description": "Vai Pikachu, choque do trovão!",
+      "likes": 35259
+    },
+    {
+      "user": "Matheus Henrique",
+      "userPicture": "https://avatars.githubusercontent.com/u/72346496?s=460&u=9feeb2d0e06775ad374e6d84c09423838fb648e6&v=4",
+      "postPicture": "https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/code-editoren-t.jpg",
+      "description": "Acho que ta funcionando :O !!!",
+      "likes": 2,
+      "id": 6
+    }
+  ],
+  "stories": [
+    {
+      "id": 11,
+      "user": "Homer Simpson",
+      "userPicture": "https://i.pinimg.com/originals/bd/19/2f/bd192f2723f7d81013f04903d9e0428b.png",
+      "time": "há 22 minutos"
+    },
+    {
+      "id": 22,
+      "user": "Olaf",
+      "userPicture": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_olaf_18466_eabe1344.jpeg?region=0,0,600,600",
+      "time": "há 30 minutos"
+    },
+    {
+      "id": 33,
+      "user": "Rick Sanchez",
+      "userPicture": "https://static.wikia.nocookie.net/rickemorty/images/d/dc/4469093-screen_shot_2015-03-25_at_5.13.24_pm_copy.jpg/revision/latest/top-crop/width/360/height/450?cb=20170918192423&path-prefix=pt-br",
+      "time": "há 2 horas"
+    },
+    {
+      "id": 44,
+      "user": "Shrek",
+      "userPicture": "https://static1.purebreak.com.br/articles/7/37/16/7/@/179652-filme-shrek-5-longa-so-deve-chegar-as-diapo-2.jpg",
+      "time": "há 7 horas"
+    }
+  ],
+  "user": {
+    "name": "Matheus Henrique",
+    "username": "MatheusHre",
+    "userPicture": "https://avatars.githubusercontent.com/u/72346496?s=460&u=9feeb2d0e06775ad374e6d84c09423838fb648e6&v=4"
+  }
+}
